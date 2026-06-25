@@ -4,5 +4,7 @@ DODATNE INFO: pismeni u roku jun1 održaće se 29. juna u 17h (809a) - molim da 
 
 Format pismenog: radi se 120 minuta, nije dozvoljeno korišćenje AI alata. Može se koristiti materijal sa vježbi. 
 
-# okačen je predrok; za dodatnu pripremu može iskoristiti mnogo materijala sa ovog linka: https://www.astro.ubc.ca/people/jvw/ASTROSTATS/pracstats_web_ed2.html
+---
+
+okačen je predrok; za dodatnu pripremu može iskoristiti mnogo materijala sa ovog linka: https://www.astro.ubc.ca/people/jvw/ASTROSTATS/pracstats_web_ed2.html
 
