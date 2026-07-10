@@ -6,3 +6,6 @@ Format pismenog: radi se 120 minuta, nije dozvoljeno korišćenje AI alata. Nara
 
 Okačen je predrok; za dodatnu pripremu možete koristiti mnoge materijale sa ovog linka: https://www.astro.ubc.ca/people/jvw/ASTROSTATS/pracstats_web_ed2.html
 
+---
+
+Bodovanje na predmetu: Domaći [ 20p ] + pismeni [ 40 p ] + usmeni & projekat [ 40p ]
